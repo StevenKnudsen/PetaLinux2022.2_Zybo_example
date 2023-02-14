@@ -5,6 +5,7 @@ images/linux/
 pre-built/linux/
 .petalinux/*
 .petalinux
+.Xil
 !.petalinux/metadata
 *.o
 *.jou
