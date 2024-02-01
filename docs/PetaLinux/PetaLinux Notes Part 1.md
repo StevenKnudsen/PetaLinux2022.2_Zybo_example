@@ -96,7 +96,7 @@ Before we start, we need the latest board definitions from Digilent. See this [g
    ```
    git clone https://github.com/Digilent/vivado-boards
    ```
-5. Copy the `Vivado_init.tcl` file from the repo to the `~/.Xilinx/Vivado/` directory as instructed in the guid
+5. Copy the `Vivado_init.tcl` file from the repo to the `~/.Xilinx/Vivado/` directory as instructed in the guide
 6. Edit the `~./Xilinx/Vivado/Vivado_init.tcl` file as instructed
 7. Now Vivado is ready to go
 
